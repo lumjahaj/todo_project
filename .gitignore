@@ -7,3 +7,4 @@ todo_project/__pycache__/
 todo/__pycache__/
 local_settings.py
 /static/
+todo/migrations/
