@@ -1,6 +1,7 @@
 *.log
 *.pot
 *.pyc
+.idea/
 __pycache__/
 todo_project/__pycache__/
 todo/__pycache__/
